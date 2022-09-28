@@ -64,7 +64,8 @@ ThemeData lightTheme = ThemeData(
           ),
         ),
         suffixIconColor: primaryColor,
-        prefixIconColor: Color.fromARGB(255, 127, 123, 123).withOpacity(.7)),
+        prefixIconColor:
+            const Color.fromARGB(255, 127, 123, 123).withOpacity(.7)),
     textTheme: const TextTheme(
       headline6: TextStyle(
         color: Color.fromARGB(255, 199, 194, 194),
