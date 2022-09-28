@@ -103,7 +103,7 @@ class InfoWidget extends StatelessWidget {
                                         fontWeight: FontWeight.normal)),
                             const SizedBox(height: 10),
                             SizedBox(
-                              height: 144,
+                              height: 156,
                               child: PageView.builder(
                                 controller: _downController,
                                 itemBuilder: (context, index) {
